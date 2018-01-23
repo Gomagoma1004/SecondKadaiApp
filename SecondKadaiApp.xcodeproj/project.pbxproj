@@ -12,6 +12,7 @@
 		71DEF5472016C0010002A573 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71DEF5452016C0010002A573 /* Main.storyboard */; };
 		71DEF5492016C0010002A573 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71DEF5482016C0010002A573 /* Assets.xcassets */; };
 		71DEF54C2016C0010002A573 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71DEF54A2016C0010002A573 /* LaunchScreen.storyboard */; };
+		71DEF5542016C1F50002A573 /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71DEF5532016C1F50002A573 /* NextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		71DEF5482016C0010002A573 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71DEF54B2016C0010002A573 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71DEF54D2016C0010002A573 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71DEF5532016C1F50002A573 /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				71DEF5412016C0010002A573 /* AppDelegate.swift */,
 				71DEF5432016C0010002A573 /* ViewController.swift */,
+				71DEF5532016C1F50002A573 /* NextViewController.swift */,
 				71DEF5452016C0010002A573 /* Main.storyboard */,
 				71DEF5482016C0010002A573 /* Assets.xcassets */,
 				71DEF54A2016C0010002A573 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				71DEF5442016C0010002A573 /* ViewController.swift in Sources */,
+				71DEF5542016C1F50002A573 /* NextViewController.swift in Sources */,
 				71DEF5422016C0010002A573 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
